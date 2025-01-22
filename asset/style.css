@@ -5,6 +5,12 @@ body {
    background-color: #fff;
 }
 
+marquee {
+   padding: 10px;
+   background-color: black;
+   color: #FFFFFF;
+}
+
 .header {
    max-width: 1400px;
    margin: auto;
@@ -658,7 +664,7 @@ body {
    border-radius: 47.93px;
    border: none;
    position: absolute;
-   bottom: 100px;
+   bottom: 94px;
    left: 16px;
 
 
@@ -677,7 +683,7 @@ body {
 .buto {
    text-align: center;
    margin-top: 20px;
-   margin-bottom: 20px;
+   
 }
 
 .View-All {
