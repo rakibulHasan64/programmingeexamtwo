@@ -601,7 +601,8 @@ marquee {
    border-radius: 15px;
    text-align: center;
    overflow: hidden;
-   position: relative;  
+   position: relative; 
+   width: 300px; 
 }
 
 .sub-two {
